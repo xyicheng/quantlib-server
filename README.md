@@ -7,3 +7,6 @@ zerorpc (0.6.0)
 
 pip install zerorpc
 pip install pytest
+
+# To run tests
+pytest

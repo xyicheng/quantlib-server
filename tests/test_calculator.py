@@ -1,4 +1,4 @@
-from calculator import Calculator
+from quantlibserver.calculator import Calculator
 import pytest
 
 def test_calculator_price():
