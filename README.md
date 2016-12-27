@@ -10,3 +10,8 @@ pip install pytest
 
 # To run tests
 pytest
+
+# To install Quantlib on your linux box:
+wget https://sourceforge.net/projects/quantlib/files/QuantLib/1.9/QuantLib-1.9.tar.gz/download
+
+
